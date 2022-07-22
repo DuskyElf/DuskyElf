@@ -2,7 +2,7 @@
 - 👀 I’m interested in contributing in opensource
 
 - 📫 How to reach me 
-- discord - DuskyElf#1809
+- discord - DuskyElf#7999
 
 <!---
 DuskyElf/DuskyElf is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
